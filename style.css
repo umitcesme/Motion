@@ -1,0 +1,98 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.header{
+    background: #f56262;
+}
+.header-area{
+    display: flex;
+    justify-content: space-between;
+}
+.slider{
+    background: #eb4f4e;
+}
+.slogan h1{
+    font-weight: 300;
+    letter-spacing: 9px;
+}
+.smart{
+    background: #232324;
+}
+.smart-title{
+    padding: 25px 0;
+}
+.smart h3{
+    color: #ffffff;
+    text-align: center;
+    letter-spacing: 3px;
+}
+.smart h4{
+    color: #ffffff;
+}
+.smart p{
+    color: #d94948;
+    text-align: center;
+}
+.expert{
+    background: #6cc372;
+}
+.expert-title{
+    padding: 25px 0;
+}
+.expert h3{
+    color: #ffffff;
+    text-align: center;
+    letter-spacing: 3px;
+}
+.expert p{
+    color: #000000;
+    text-align: center;
+}
+.expert h5{
+    color: #61af66;
+}
+.expert h6{
+    color: #e74c3c;
+}
+.elegant{
+    background: #f0f0f0;
+}
+.elegant-title{
+    padding: 25px 0;
+}
+.elegant-title h3{
+    color: #616161;
+    text-align: center;
+    letter-spacing: 3px;
+}
+.elegant-title h6{
+    text-align: center;
+    color: #61af66;
+}
+.elegant h1{
+    color: #eb4f4e;
+}
+.commet{
+    background: #eb4f4e;
+}
+.commet-title{
+    padding: 25px 0;
+}
+.commet-title h3{
+    text-align: center;
+    color: #ffffff;
+    letter-spacing: 3px;
+}
+.commet p{
+    color: #ffffff;
+}
+.commet-title p{
+    text-align: center;
+    color: #000000;
+}
+.map{
+    background-image: url(images/google.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+}
